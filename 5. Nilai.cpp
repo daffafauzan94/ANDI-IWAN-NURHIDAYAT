@@ -1,5 +1,5 @@
-//Nama  : Muhammad Imam Amiruddin
-//NIM   : 20051397068
+//Nama  : Daffa Fauzan Hadiansyah
+//NIM   : 20051397024
 //Kelas : 2020B Manajemen Informatika
 
 
